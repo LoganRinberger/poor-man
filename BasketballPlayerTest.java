@@ -1,6 +1,7 @@
 package prob1;
 
 //1302 was very hard
+//4321 is hard too
 public class BasketballPlayerTest {
 
 	public static void main(String[] args) {
